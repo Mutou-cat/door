@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sys.h": "c",
+        "main.h": "c",
+        "user_tasksinit.h": "c"
+    }
+}
